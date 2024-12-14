@@ -1,8 +1,5 @@
 # Temperature-and-Humidity-Detection
 An IoT project to monitor temperature and humidity using sensors.
-
-# Temperature and Humidity Detection 
-
 This project demonstrates the use of IoT (Internet of Things) to monitor and track temperature and humidity levels in real-time using sensors and display the data on a web interface. The data is collected from a DHT11 or DHT22 sensor, processed by a microcontroller (like Arduino or Raspberry Pi), and sent to a cloud platform for visualization and analysis.
 
 ## Features
